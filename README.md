@@ -1,9 +1,6 @@
 # EECE5645-Final-Project
 Twitter Sentiment Analysis with Distributed Machine Learning
 
-# EECE5645_Project
-Twitter Sentiment Analysis with Distributed Machine Learning
-
 # You need to download train.txt(~110 MB) and test.txt from my gdrive 
 
 # FMClassifier
